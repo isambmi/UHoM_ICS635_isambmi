@@ -1,0 +1,1 @@
+[Jupyter notebook](assignment4_ics635.ipynb) containing code, figures, rational and reasoning in assignment 4 training a CNN to classify articles of clothing from the FashionMNIST dataset into appropriate categories. Notebook has been run prior to commit, displaying all figures, with all models trained.
